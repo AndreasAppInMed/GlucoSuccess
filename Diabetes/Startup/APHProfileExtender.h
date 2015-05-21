@@ -34,6 +34,7 @@
 #import <Foundation/Foundation.h>
 @import APCAppCore;
 
+//just a comment
 
 @interface APHProfileExtender : NSObject <APCProfileViewControllerDelegate>
 
